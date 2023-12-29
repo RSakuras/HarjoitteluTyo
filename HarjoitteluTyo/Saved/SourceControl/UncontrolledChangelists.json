@@ -5,7 +5,34 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Projectiles/ProjectileBase.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/TestDummy.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/UI/PlayerUI/hearts.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/UI/PlayerUI/MainPlayerUI.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Projectiles/PlayerProjectiles/MainPlayerProjectile.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Projectiles/EnemyProjectiles/MainEnemyProjectile.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Enemies/EnemyBase.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Input/Actions/IA_BasicAttack.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Input/Actions/IA_Ability1.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Input/Actions/IA_Ability2.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Input/Actions/IA_Ability3.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Input/Actions/IA_Ability4.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/TopDown/Input/Actions/IA_Dodge.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Projectiles/PlayerProjectiles/PowerShotProjectile.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Materials/Decals/MagicCircleDecal.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Materials/Textures/MagicCircle_Mat.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/8O/MO3MY29KIKKAUIC3NGI2LX.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Projectiles/PlayerProjectiles/Ability2.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Projectiles/PlayerProjectiles/Ability2Setup.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Projectiles/PlayerProjectiles/BasicAttackProjectile.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Materials/Textures/MagicCircle.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/Materials/Textures/Spokes_10_-_512x512.uasset",
+				"C:/UnrealProjects/HarjoitteluTyoAgain/HarjoitteluTyo/Content/MyStuff/UI/UI/MainPlayerUI.uasset"
 			]
 		}
 	]
